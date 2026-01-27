@@ -15,7 +15,6 @@ func main() {
 	// int
 	fmt.Printf("Type: %T - Value: %v\n", 1, 1)
 	
-
 	//float - decimal
 	fmt.Printf("Type: %T - Value: %v\n", 1.123, 1.123)
 }
