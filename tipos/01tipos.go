@@ -10,10 +10,14 @@ func main() {
 
 	// string - sequência de bytes
 	fmt.Printf("Type: %T - Value: %v\n", "Vilker", "Vilker")
+	fmt.Printf("Type: %T - Value: %v\n", "1", "1")
+	
+	// int
+	fmt.Printf("Type: %T - Value: %v\n", 1, 1)
+	
 
-	// fmt.Printf("Type: %T - Value: %v\n", 1, 1)
-	// fmt.Printf("Type: %T - Value: %v\n", "1", "1")
-	// fmt.Printf("Type: %T - Value: %v\n", 1.123, 1.123)
+	//float - decimal
+	fmt.Printf("Type: %T - Value: %v\n", 1.123, 1.123)
 }
 
 // Tipos:
