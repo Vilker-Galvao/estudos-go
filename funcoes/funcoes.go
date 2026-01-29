@@ -24,7 +24,7 @@ func printNomeCompleto(nome, sobrenome string) (string, string) {
 }
 
 // Função começando com letra maiúscula:
-// FUnção é PÚBLICA
+// Função é PÚBLICA
 // Função pode ser utilizada fora do próprio pacote
 // Como utilizaria ela fora: main.PrintNome(nome)
 func PrintNome(nome string) string {
