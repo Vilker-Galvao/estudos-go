@@ -17,7 +17,7 @@ func main() {
 }
 
 // Função começando com letra minúscula:
-// FUnção é PRIVADA
+// Função é PRIVADA
 // Função ela só pode ser utilizada no próprio pacote
 func printNomeCompleto(nome, sobrenome string) (string, string) {
 	return nome, sobrenome
